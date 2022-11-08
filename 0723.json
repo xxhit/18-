@@ -18,15 +18,7 @@
             "quickSearch" : 1,
             "filterable" : 1
         },
-	{"key":"*91麻豆","name":"*91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{
-          "key": "*91麻豆②",
-          "name": "*91麻豆②",
-          "type": 1,
-          "api": "http://bt4.cc/api.php/provide/vod/from/mdm3u8/",
-          "tag": "qb,tj,rm",
-          "categories": []
-         },*/
+	
     {
       "key": "*鲨鱼",
       "name": "💋鑫推荐鲨鱼",
